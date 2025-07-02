@@ -52,3 +52,7 @@ Generate a response from that intent
 *Error Handling and Fallbacks
 Add a default/fallback message when intent isn’t matched
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/eb0e9c06-2ff1-491f-af33-153d9d33c405)
+
